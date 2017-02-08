@@ -1,6 +1,8 @@
 # cf-sofia-meetups
 This repo holds various resources that are related to Cloud Foundry Sofia meetups
 
-## Slides of past meetups
+## Past meetups
 
-* [Slides of 2017.1 meetup](./2017.1)
+* [2017.1](./2017.1)
+* [2016.2](./2016.2)
+* [2016.1](./2016.1)
