@@ -2,8 +2,6 @@
 
 ## Agenda
 
-Agenda:
-
 ### [CF News Feb-Apr](https://www.slideshare.net/hsiliev/cf-news-april-febapr-2017)
 **Hristo Iliev**
 
