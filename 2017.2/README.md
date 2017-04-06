@@ -7,7 +7,7 @@ Agenda:
 ### [CF News Feb-Apr](https://www.slideshare.net/hsiliev/cf-news-april-febapr-2017)
 **Hristo Iliev**
 
-### [Service Brokers, Instances & Bindings]()
+### [Service Brokers, Instances & Bindings](https://www.slideshare.net/dotchev/services-in-cf)
 **Petar Dochev**
 
 We will explore consuming and providing services in Cloud Foundry. We will focus on reliable service binding and deployment of custom service brokers.
