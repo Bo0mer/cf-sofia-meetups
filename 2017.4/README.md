@@ -2,10 +2,10 @@
 
 ## Agenda
 
-### [CF News Apr-Jun](https://www.slideshare.net/hsiliev/cf-news-april-june-2017)
+### [CF News June-September](https://www.slideshare.net/hsiliev/cf-news-june-september-2017)
 **Hristo Iliev**
 
-### [CF Summit North America ](https://www.slideshare.net/hsiliev/)
+### [CF Summit North America ](https://www.slideshare.net/hsiliev/cfs-na-2017)
 **Hristo Iliev, Yulia Nedyalkova**
 
 ### [Managing Distributed Cloud Native Applications Made Easy](http://schd.ws/hosted_files/cfeu17/0f/CF_Summit_EU_final.pdf)
