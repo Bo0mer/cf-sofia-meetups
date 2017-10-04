@@ -9,7 +9,7 @@
 **Hristo Iliev, Yulia Nedyalkova**
 
 ### [Managing Distributed Cloud Native Applications Made Easy](http://schd.ws/hosted_files/cfeu17/0f/CF_Summit_EU_final.pdf)
-**Nikolay Valchev,SAP **
+**Nikolay Valchev, SAP**
 
 From an application lifecycle management perspective, the basic deployment unit, the "CF-app", is not sufficiently equipped with metadata. Thus, people are encoding ID, version and even blue/green deployment status directly into the CF-app-name. Service instances must be created, updated and bound in alignment with the app lifecycle. Routes must be created and (re-)mapped. Dependencies to other apps must be written into environment variables. To achieve all of this, each continuous deployment and release management implementation invents its own script code world to automate application lifecycle operations.
 
