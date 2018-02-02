@@ -3,6 +3,7 @@ This repo holds various resources that are related to Cloud Foundry Sofia meetup
 
 ## Past meetups
 
+* [2018.1 - CF Day](./2018.1 - CF Day)
 * [2017.4](./2017.4)
 * [2017.3](./2017.3)
 * [2017.2](./2017.2)
