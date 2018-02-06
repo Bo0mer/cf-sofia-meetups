@@ -14,7 +14,7 @@
 * 11:50 - 12:30 [**From the Drawing Board to the Trenches: Building a Production-Ready Application**](https://www.slideshare.net/hsiliev/from-the-drawing-board-to-the-trenches-building-a-productionready-application) | _Hristo Iliev, Development Architect, SAP_
 * 12:30 - 14:00 Lunch
 * 14:00 - 14:40 [**mozzle: Monitoring your Cloud Foundry Application**](https://www.slideshare.net/IvanBorshukov/mozzle-monitoring-your-cloud-foundry-application)| _Ivan Borshukov, Developer, ChaosGroup_
-* 14:40 - 15:20 **Life of a Bulgardener: eXtreme Programming in Practice** | _Yulia Nedyalkova, Georgi Sabev, Developers, SAP_
+* 14:40 - 15:20 [**Life of a Bulgardener: eXtreme Programming in Practice**](https://www.slideshare.net/GeorgiSabev/life-of-a-bulgardener-extreme-programming-in-practice) | _Yulia Nedyalkova, Georgi Sabev, Developers, SAP_
 * 15:20 - 15:40 Coffee Break
 * 15:40 - 16:20 **Virtustream Pivotal Cloud Foundry Service** | _Kiril Kirov, Business Consulting Director, Virtustream_
 * 16:20 - 17:00 [**Managing Distributed Cloud Applications Made Easy**](https://drive.google.com/file/d/1DQqoiqNScp7RkQm-yiVMjmHjicBRLfei/view?usp=sharing) | _Nikolay Valchev, Development Architect, SAP_
