@@ -18,3 +18,6 @@
 * 15:20 - 15:40 Coffee Break
 * 15:40 - 16:20 [**Virtustream Pivotal Cloud Foundry Service**](https://drive.google.com/file/d/17qf81c74MN4ohtHqnHYCEEp23Gh0p16L/view?usp=sharing) | _Kiril Kirov, Business Consulting Director, Virtustream_
 * 16:20 - 17:00 [**Managing Distributed Cloud Applications Made Easy**](https://drive.google.com/file/d/1DQqoiqNScp7RkQm-yiVMjmHjicBRLfei/view?usp=sharing) | _Nikolay Valchev, Development Architect, SAP_
+
+**Photos:**   
+https://goo.gl/GgAa2A 
